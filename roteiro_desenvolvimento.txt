@@ -1,0 +1,6 @@
+- Montar historia;
+- Tela de boas vindas;
+- Menu de criacao do personagem;
+- Criar Parte 1;
+- Criar inventario;
+- Criar sistema de load de personagem ja criado.
