@@ -1,4 +1,4 @@
-# Text RPG Game
+# DarkDungeon
 
 Welcome to the Text RPG Game! This is a simple text-based RPG implemented in Python, created by an AI.
 
