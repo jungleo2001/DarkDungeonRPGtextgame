@@ -20,7 +20,7 @@ In this game, you play as a hero who explores various rooms, encounters monsters
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/text-rpg-game.git
+    git clone https://github.com/jungleo2001/DarkDungeonRPGtextgame.git
     ```
 
 2. Navigate to the project directory:
